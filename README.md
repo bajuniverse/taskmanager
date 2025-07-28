@@ -26,3 +26,5 @@ The task manager application is designed to help users efficiently manage their 
 * **GitHub Account** [[https://github.com/signup?source=login](https://github.com/signup?source=login)]
 
 ---
+
+## Implementing Jira commit
